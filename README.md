@@ -21,7 +21,7 @@
 
 ### Submission  
 
-Submit push your project to the github classroom repository
+Push your project to the github classroom repository
 
 Demonstrate the project to your instructor 
  
