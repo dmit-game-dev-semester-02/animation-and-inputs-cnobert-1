@@ -13,7 +13,8 @@ public class InputAndAnimationGame : Game
     private CelAnimationSequence _sequence01, _sequence02;
     private CelAnimationPlayer _animation01, _animation02;
 
-
+    private CelAnimationSequenceMultiRow running, walking, idle;
+    private CelAnimationPlayerMultiRow playerRunning, playerWalking, playerIdle;
     public InputAndAnimationGame()
     {
         _graphics = new GraphicsDeviceManager(this);
